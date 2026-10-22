@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>local.holdtotype</string>
+	<key>CFBundleName</key>
+	<string>HoldToType</string>
+	<key>CFBundleDisplayName</key>
+	<string>HoldToType</string>
+	<key>CFBundleExecutable</key>
+	<string>HoldToType</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>HoldToType records your voice only while you hold the hotkey, and transcribes it on this Mac.</string>
+</dict>
+</plist>
